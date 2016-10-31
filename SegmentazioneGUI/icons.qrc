@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="apri_immagine_icon">icons/apri_immagine.png</file>
+        <file alias="impostazioni_icon">icons/impostazioni.png</file>
+        <file alias="luminosità_icon">icons/luminosità.png</file>
+        <file alias="rettangolo_icon">icons/rettangolo.png</file>
+        <file alias="segmenta_icon">icons/segmenta.png</file>
+        <file alias="segna_pelle_malata_icon">icons/segna_pelle_malata.png</file>
+        <file alias="segna_pelle_sana_icon">icons/segna_pelle_sana.png</file>
+        <file alias="zoom_icon">icons/zoom-tool.png</file>
+        <file alias="zoom_original">icons/zoom-original.png</file>
+        <file alias="zoom_minimum">icons/zoom_minimum.png</file>
+        <file alias="exit">icons/application-exit.png</file>
+        <file alias="people">icons/avatar-default.png</file>
+        <file alias="newdoc">icons/document-new.png</file>
+        <file alias="openrecent">icons/document-open-recent.png</file>
+        <file alias="saveas">icons/document-save-as.png</file>
+        <file alias="save">icons/document-save.png</file>
+        <file alias="clear">icons/edit-clear.png</file>
+        <file alias="delete">icons/edit-delete.png</file>
+        <file alias="findreplace">icons/edit-find-replace.png</file>
+        <file alias="tast">icons/task-past-due.png</file>
+        <file alias="redo">icons/edit-redo.png</file>
+        <file alias="instext">icons/insert-text.png</file>
+        <file alias="cut">icons/edit-cut.png</file>
+        <file alias="insterima">icons/insert-image.png</file>
+        <file alias="vf">icons/view-fullscreen.png</file>
+        <file alias="fn">icons/folder-new.png</file>
+        <file>icons/window-close.png</file>
+        <file>icons/edit-undo.png</file>
+        <file alias="undo">icons/zoom-in.png</file>
+        <file alias="zo">icons/zoom-out.png</file>
+        <file alias="ef">icons/edit-find.png</file>
+        <file alias="go">icons/go-home.png</file>
+        <file alias="vr">icons/view-refresh.png</file>
+        <file alias="sr">icons/system-run.png</file>
+        <file alias="io">icons/insert-object.png</file>
+        <file alias="zbf">icons/zoom-best-fit.png</file>
+        <file alias="quadratoRosso">icons/icona_marcatura_malata.png</file>
+        <file alias="quadratoVerde">icons/icona_marcatura_sana.png</file>
+        <file alias="brushDOWN">icons/brushDOWN.png</file>
+        <file alias="brushUP">icons/brushUP.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,26 @@
+%YAML:1.0
+image: !!opencv-matrix
+   rows: 0
+   cols: 0
+   dt: u
+   data: []
+anteprima_marcature: !!opencv-matrix
+   rows: 0
+   cols: 0
+   dt: u
+   data: []
+anteprima_sana: !!opencv-matrix
+   rows: 0
+   cols: 0
+   dt: u
+   data: []
+anteprima_malata: !!opencv-matrix
+   rows: 0
+   cols: 0
+   dt: u
+   data: []
+mask: !!opencv-matrix
+   rows: 0
+   cols: 0
+   dt: u
+   data: []

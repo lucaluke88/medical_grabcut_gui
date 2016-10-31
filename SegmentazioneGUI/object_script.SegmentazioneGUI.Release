@@ -1,0 +1,13 @@
+INPUT(
+./release/main.o
+./release/mainwindow.o
+./release/mymouseqlabel.o
+./release/globals.o
+./release/cvmatqimage.o
+./release/zoomedimagewindow.o
+./release/segmentazionegui_plugin_import.o
+./release/qrc_icons.o
+./release/moc_mainwindow.o
+./release/moc_mymouseqlabel.o
+./release/moc_zoomedimagewindow.o
+);
